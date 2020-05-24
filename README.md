@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Wine Variety Prediction
 
-You can use the [editor on GitHub](https://github.com/cyber-noob/Basics-of-ML/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is one of my personal projects where we will be predicting the wine variety column using different features such as
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  1. User Reviews
+  2. Ratings Score
+  3. Country
+  4. Provinces
 
-### Markdown
+Here I shall be using **Google Colab** using its inbuilt modules. If some modules are out of scope for google colab we can easily install it using the command:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyber-noob/Basics-of-ML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ > !pip install "module name"
+ 
+ This project can be broken into two parts
+ 
+  1. [Exploratory Data Analysis] (https://github.com/cyber-noob/Wine-Variety-Prediction/blob/master/wine_eda.ipynb)
+  2. [Predictive modelling](https://github.com/cyber-noob/Wine-Variety-Prediction/blob/master/wine1.ipynb)
