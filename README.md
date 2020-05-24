@@ -13,5 +13,5 @@ Here I shall be using **Google Colab** using its inbuilt modules. If some module
  
  This project can be broken into two parts
  
-  1. [Exploratory Data Analysis] (https://github.com/cyber-noob/Wine-Variety-Prediction/blob/master/wine_eda.ipynb)
+  1. [Exploratory Data Analysis](https://github.com/cyber-noob/Wine-Variety-Prediction/blob/master/wine_eda.ipynb)
   2. [Predictive modelling](https://github.com/cyber-noob/Wine-Variety-Prediction/blob/master/wine1.ipynb)
